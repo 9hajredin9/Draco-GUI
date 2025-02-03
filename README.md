@@ -11,7 +11,6 @@ It allows users to monitor network traffic in real-time, inspect packets, apply 
 - Live Packet Capture (TCP, UDP, ICMP, ARP, HTTP, DNS, DHCP)
 - Graphical Packet Inspection (View packet details in a pop-up)
 - Real-Time Filtering (Filter by IP, port, or protocol)
-- Color-Coded Logs (Highlight different protocols for better visibility)
 - Packet Statistics (View protocol counts in a sidebar)
 - Auto-Scroll Toggle (Pause/Resume live packet view)
 - Export to CSV & PCAP (Save logs for later analysis)
@@ -39,7 +38,9 @@ Inspect packet details, filter results, and export logs.
 
 
 Made by: Hajredin Husejini
+
 GitHub: @9hajredin9
+
 YouTube: [Scriptkid Networks](https://www.youtube.com/@ScriptKidNetworks)
 
 
