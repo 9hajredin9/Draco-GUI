@@ -19,10 +19,15 @@ It allows users to monitor network traffic in real-time, inspect packets, apply 
 
 
 🔹 1. Download & Install
+
 📥 From Website/GitHub:
+
 Download the DRACO_Installer.exe from:
+
 👉 [Download DRACO !](https://github.com/9hajredin9/Draco-GUI/releases/tag/v1.0.0)
+
 Run the installer and follow the setup instructions.
+
 Launch DRACO ! from the Desktop shortcut.
 
 ## 🔹 2. Usage Guide
