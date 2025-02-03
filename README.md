@@ -1,49 +1,24 @@
-#DRACO ! - Packet Sniffing Tool
+## DRACO ! - Packet Sniffing Tool
+
+
 🔹 Description
-DRACO ! is a powerful packet sniffing tool with a user-friendly GUI built using Tkinter. It allows users to monitor network traffic in real-time, inspect packets, apply live filtering, and export logs.
+DRACO ! is a powerful packet sniffing tool with a user-friendly GUI built using Tkinter. 
+It allows users to monitor network traffic in real-time, inspect packets, apply live filtering, and export logs.
 
-🚀 Features:
-
--Live Packet Capture (TCP, UDP, ICMP, ARP, HTTP, DNS, DHCP)
--Graphical Packet Inspection (View packet details in a pop-up)
--Real-Time Filtering (Filter by IP, port, or protocol)
--Color-Coded Logs (Highlight different protocols for better visibility)
--Packet Statistics (View protocol counts in a sidebar)
--Auto-Scroll Toggle (Pause/Resume live packet view)
--Export to CSV & PCAP (Save logs for later analysis)
-
-#🖥️ Installation & Usage
-🔹 1. Download & Install
-📥 From Website/GitHub:
-
-Download the DRACO_Installer.exe from:
-👉 GitHub Releases (Replace with actual link)
-Run the installer and follow the setup instructions.
-Launch DRACO ! from the Desktop shortcut.
-🔹 2. Usage Guide
-Open DRACO !.
-Select network interface (e.g., Wi-Fi, Ethernet).
-Choose filter options (e.g., All Traffic, HTTP Only, Custom Filters).
-Click "Start Sniffing" to begin capturing packets.
-Inspect packet details, filter results, and export logs.
+## 🚀 Features:
 
 
-Here's a README.md file for your DRACO ! packet sniffing tool.
+- Live Packet Capture (TCP, UDP, ICMP, ARP, HTTP, DNS, DHCP)
+- Graphical Packet Inspection (View packet details in a pop-up)
+- Real-Time Filtering (Filter by IP, port, or protocol)
+- Color-Coded Logs (Highlight different protocols for better visibility)
+- Packet Statistics (View protocol counts in a sidebar)
+- Auto-Scroll Toggle (Pause/Resume live packet view)
+- Export to CSV & PCAP (Save logs for later analysis)
 
-DRACO ! - Packet Sniffing Tool
-🔹 Description
-DRACO ! is a powerful packet sniffing tool with a user-friendly GUI built using Tkinter. It allows users to monitor network traffic in real-time, inspect packets, apply live filtering, and export logs.
+## 🖥️ Installation & Usage
 
-#🚀 Features:
 
-Live Packet Capture (TCP, UDP, ICMP, ARP, HTTP, DNS, DHCP)
-Graphical Packet Inspection (View packet details in a pop-up)
-Real-Time Filtering (Filter by IP, port, or protocol)
-Color-Coded Logs (Highlight different protocols for better visibility)
-Packet Statistics (View protocol counts in a sidebar)
-Auto-Scroll Toggle (Pause/Resume live packet view)
-Export to CSV & PCAP (Save logs for later analysis)
-🖥️ Installation & Usage
 🔹 1. Download & Install
 📥 From Website/GitHub:
 Download the DRACO_Installer.exe from:
@@ -51,16 +26,20 @@ Download the DRACO_Installer.exe from:
 Run the installer and follow the setup instructions.
 Launch DRACO ! from the Desktop shortcut.
 
-#🔹 2. Usage Guide
+## 🔹 2. Usage Guide
+
+
 Open DRACO !.
 Select network interface (e.g., Wi-Fi, Ethernet).
 Choose filter options (e.g., All Traffic, HTTP Only, Custom Filters).
 Click "Start Sniffing" to begin capturing packets.
 Inspect packet details, filter results, and export logs.
 
-#📜 Credits
+## 📜 Credits
+
+
 Made by: Hajredin Husejini
-GitHub: @your-username
-YouTube: ScriptKid Networks
+GitHub: @9hajredin9
+YouTube: [Scriptkid Networks](https://www.youtube.com/@ScriptKidNetworks)
 
 
